@@ -1,0 +1,253 @@
+FIPS_CNTRY,GMI_CNTRY,ISO_2DIGIT,ISO_3DIGIT,CNTRY_NAME,CNTRY_TERM,Flag,LONG_NAME,SOVEREIGN,POP_CNTRY,CURR_TYPE,CURR_CODE,LANDLOCKED,SQKM,SQMI,COLOR_MAP,OID_,FIPS_CNT_1,CNTRY_NA_1,CAPITAL,FAO,GA_MEMB_YR,IAEA,IBRD,IMF,OPEC,UNESCO,WHO,WMO
+RS,RUS,RU,RUS,Russia,Russia,,Russia,Russia,151827600,Ruble,RUR,N,16911282,6529445,1,191,RS,Russia,Moscow,N,1991,Y,Y,Y,N,Y,Y,Y
+SV,SJM,SJ,SJM,Svalbard,Svalbard,,Svalbard,Norway,3148,Norwegian Krone,NOK,N,61909.1,23903.1,3,209,SV,Svalbard,,N,0,N,N,N,N,N,N,N
+GL,GRL,GL,GRL,Greenland,Greenland,,Greenland,Denmark,55413,Danish Krone,DKK,N,2143319,827535.44,7,87,GL,Greenland,,N,0,N,N,N,N,N,N,N
+JN,SJM,SJ,SJM,Jan Mayen,Jan Mayen,,Jan Mayen,Norway,-99999,Norwegian Krone,NOK,N,467.76,180.6,5,116,JN,Jan Mayen,,N,0,N,N,N,N,N,N,N
+IC,ISL,IS,ISL,Iceland,Iceland,,Iceland,Iceland,267240,Krona,ISK,N,102280.63,39490.54,8,103,IC,Iceland,Reykjavik,Y,1946,Y,Y,Y,N,Y,Y,Y
+FO,FRO,FO,FRO,Faroe Is.,Faroe Is.,,Faroe Islands,Denmark,47067,Danish Krone,DKK,N,1474.69,569.38,3,75,FO,Faroe Is.,,N,0,N,N,N,N,N,N,N
+FI,FIN,FI,FIN,Finland,Finland,,Finland,Finland,5031379,Markka,FIM,N,333144.53,128627.09,7,71,FI,Finland,Helsinki,Y,1955,Y,Y,Y,N,Y,Y,Y
+EN,EST,EE,EST,Estonia,Estonia,,Estonia,Estonia,1590808,Kroon,EKK,N,45689.43,17640.69,6,65,EN,Estonia,Tallinn,N,0,N,N,N,N,N,N,N
+LG,LVA,LV,LVA,Latvia,Latvia,,Latvia,Latvia,2690291,Lat,LVL,N,64324.77,24835.79,3,130,LG,Latvia,Riga,N,0,N,N,N,N,N,N,N
+UK,GBR,GB,GBR,United Kingdom,Kingdom,*,United Kingdom,United Kingdom,56420180,Pound Sterling,GBP,N,243299.52,93937.94,5,230,UK,United Kingdom,London,Y,1945,Y,Y,Y,N,N,Y,Y
+LH,LTU,LT,LTU,Lithuania,Lithuania,,Lithuania,Lithuania,3786560,Lita,LTL,N,64712.64,24985.55,2,131,LH,Lithuania,Vilnius,N,0,N,N,N,N,N,N,N
+DA,DNK,DK,DNK,Denmark,Denmark,,Denmark,Denmark,4667750,Danish Krone,DKK,N,42509.49,16412.91,6,56,DA,Denmark,Copenhagen,Y,1945,Y,Y,Y,N,Y,Y,Y
+BO,BLR,BY,BLR,Belarus,Belarus,,Belarus,Belarus,10521400,Ruble,BYR,Y,206851.78,79865.48,4,28,BO,Belarus,Minsk,N,1991,Y,N,N,N,Y,Y,Y
+IM,XIM,,IMY,Isle of Man,Isle of Man,,"Man, Isle of",United Kingdom,71296,Pound Sterling,GBP,N,615.37,237.59,2,105,IM,Isle of Man,,N,0,N,N,N,N,N,N,N
+EI,IRL,IE,IRL,Ireland,Ireland,,Ireland,Ireland,5015975,Pound,IEP,N,69351.05,26776.44,1,63,EI,Ireland,Dublin,Y,1955,Y,Y,Y,N,Y,Y,Y
+PL,POL,PL,POL,Poland,Poland,,Poland,Poland,37911870,Zloty,PLZ,N,310465.91,119870.88,5,179,PL,Poland,Warsaw,Y,1945,Y,Y,Y,N,Y,Y,Y
+EZ,CZE,CZ,CZE,Czech Republic,Czech,,Czech Republic,Czech Republic,10321120,Koruna,CZK,Y,78492.5,30305.96,3,69,EZ,Czech Republic,Prague,Y,1993,Y,Y,Y,N,Y,N,Y
+MG,MNG,MN,MNG,Mongolia,Mongolia,,Mongolia,Mongolia,2228222,Tughrik,MNT,Y,1558828.63,601863.88,7,142,MG,Mongolia,Ulaanbaatar,Y,1961,Y,Y,Y,N,Y,Y,Y
+UP,UKR,UA,UKR,Ukraine,Ukraine,,Ukraine,Ukraine,53164920,Hryvna,UKH,N,595622.44,229969.81,7,231,UP,Ukraine,Kiev,N,1991,Y,N,Y,N,Y,Y,Y
+LU,LUX,LU,LUX,Luxembourg,Luxembourg,,Luxembourg,Luxembourg,387064,Luxembourg Franc,LUF,Y,2572.07,993.07,1,136,LU,Luxembourg,Luxembourg,Y,1945,Y,Y,Y,N,Y,Y,Y
+GM,DEU,DE,DEU,Germany,Germany,,Germany,Germany,81436300,Mark,DEM,N,355926,137423.03,8,88,GM,Germany,Berlin,Y,1973,Y,Y,Y,N,Y,Y,Y
+GK,XGK,,,Guernsey,Guernsey,,Guernsey,United Kingdom,62920,Pound Sterling,GBP,N,72.54,28.01,6,86,GK,Guernsey,,N,0,N,N,N,N,N,N,N
+LO,SVK,SK,SVK,Slovakia,Slovakia,,Slovakia,Slovakia,5374362,Koruna,SKK,Y,48775.27,18832.13,6,133,LO,Slovakia,Bratislava,Y,1993,Y,Y,Y,N,Y,N,Y
+MD,MDA,MD,MDA,Moldova,Moldova,,Moldova,Moldova,4473570,Leu,MDL,Y,33595.75,12971.32,3,140,MD,Moldova,Chisinau,N,1991,N,N,N,N,N,N,N
+HU,HUN,HU,HUN,Hungary,Hungary,,Hungary,Hungary,10310410,Forint,HUF,Y,92741.31,35807.42,4,102,HU,Hungary,Budapest,Y,1955,Y,Y,Y,N,Y,Y,Y
+AU,AUT,AT,AUT,Austria,Austria,,Austria,Austria,7755406,Schilling,ATS,Y,83708.39,32319.81,1,13,AU,Austria,Vienna,Y,1955,Y,Y,Y,N,Y,Y,Y
+LS,LIE,LI,LIE,Liechtenstein,Liechtenstein,,Liechtenstein,Liechtenstein,29342,Franc,CHF,Y,175.9,67.91,7,134,LS,Liechtenstein,Vaduz,N,1990,Y,N,N,N,N,N,N
+SI,SVN,SI,SVN,Slovenia,Slovenia,,Slovenia,Slovenia,1951443,Tolar,SLT,N,20369.82,7864.79,2,200,SI,Slovenia,Ljubljana,N,1992,N,N,Y,N,N,N,N
+SZ,CHE,CH,CHE,Switzerland,Switzerland,,Switzerland,Switzerland,6713839,Franc,CHF,Y,41379.52,15976.63,7,213,SZ,Switzerland,Bern,Y,0,Y,N,N,N,Y,Y,Y
+FR,FRA,FR,FRA,France,France,,France,France,57757060,Franc,FRF,N,546644.75,211059.56,6,78,FR,France,Paris,Y,1945,Y,Y,Y,N,Y,Y,Y
+SR,SRB,,,Serbia,Serbia,,Serbia,Serbia,9979116,New Dinar,YUN,Y,87960.13,33961.41,1,206,SR,Serbia,Belgrade,N,1991,N,N,N,N,N,N,N
+RO,ROM,RO,ROM,Romania,Romania,,Romania,Romania,23540550,Leu,ROL,N,236802.91,91429.6,6,188,RO,Romania,Bucharest,Y,1955,Y,Y,Y,N,Y,Y,Y
+BK,BIH,BA,BIH,Bosnia & Herzegovina,Bosnia,,Bosnia and Herzegovina,Bosnia & Herzegovina,2656240,Convertible Mark,BAK,N,51422.81,19854.35,8,24,BK,Bosnia & Herzegovina,Sarajevo,N,0,N,N,N,N,N,N,N
+BK,BIH,BA,BIH,Bosnia & Herzegovina,Herzegovina,,Bosnia and Herzegovina,Bosnia & Herzegovina,2656240,Convertible Mark,BAK,N,51422.81,19854.35,8,24,BK,Bosnia & Herzegovina,Sarajevo,N,0,N,N,N,N,N,N,N
+HR,HRV,HR,HRV,Croatia,Croatia,,Croatia,Croatia,5004112,Kuna,HRK,N,55764.42,21530.64,3,101,HR,Croatia,Zagreb,N,0,N,N,N,N,N,N,N
+BU,BGR,BG,BGR,Bulgaria,Bulgaria,,Bulgaria,Bulgaria,8943258,Lev,BGL,N,110834.41,42793.16,8,32,BU,Bulgaria,Sofiya,Y,1955,Y,N,N,N,Y,Y,Y
+SM,SMR,SM,SMR,San Marino,Marino,,San Marino,San Marino,23758,Lira,ITL,Y,59.75,23.07,4,202,SM,San Marino,San Marino,N,1992,N,N,Y,N,Y,Y,N
+MN,MCO,MC,MCO,Monaco,Monaco,,Monaco,Monaco,27409,Franc,FRF,N,9.25,3.57,5,147,MN,Monaco,Monaco Ville,N,1991,Y,N,N,N,Y,Y,N
+MW,MON,,,Montenegro,Montenegro,,Montenegro,Montenegro,635442,New Dinar,YUN,N,13773.34,5317.89,5,155,MW,Montenegro,Podgorica,N,1991,N,N,N,N,N,N,N
+KG,KGZ,KG,KGZ,Kyrgyzstan,Kyrgyzstan,,Kyrgyzstan,Kyrgyzstan,4478697,Som,KGS,Y,199285.86,76944.29,7,121,KG,Kyrgyzstan,Bishkek,N,1991,N,N,Y,N,N,N,N
+AN,AND,AD,AND,Andorra,Andorra,,Andorra,Andorra,55335,Peseta,ADP,Y,506.31,195.49,8,8,AN,Andorra,Andorra La Valla,N,1993,N,N,N,N,N,N,N
+MK,MKD,MK,MKD,Macedonia,Macedonia,,Macedonia,Macedonia,2104035,Denar,MKD,Y,25426.14,9817.03,3,145,MK,Macedonia,Skopje,N,0,N,N,N,N,N,N,N
+AJ,AZE,AZ,AZE,Azerbaijan,Azerbaijan,,Azerbaijan,Azerbaijan,5487866,Manat,AZM,Y,164129.88,63370.55,4,5,AJ,Azerbaijan,Baku,N,1991,N,N,Y,N,N,N,N
+AL,ALB,AL,ALB,Albania,Albania,,Albania,Albania,3416945,Lek,ALL,N,28615.98,11048.63,6,6,AL,Albania,Tirana,Y,1955,Y,N,N,N,Y,Y,Y
+TX,TKM,TM,TKM,Turkmenistan,Turkmenistan,,Turkmenistan,Turkmenistan,3714642,Manat,TMM,Y,554042.19,213915.69,1,227,TX,Turkmenistan,Ashgabat,N,1991,N,Y,Y,N,N,N,N
+UZ,UZB,UZ,UZB,Uzbekistan,Uzbekistan,,Uzbekistan,Uzbekistan,20841790,Som,UZS,Y,445941.69,172178.09,5,235,UZ,Uzbekistan,Tashkent,N,1991,N,N,Y,N,N,N,N
+TI,TJK,TJ,TJK,Tajikistan,Tajikistan,,Tajikistan,Tajikistan,5382232,Ruble,TUR,Y,142324.81,54951.61,6,216,TI,Tajikistan,Dushanbe,N,1991,N,N,Y,N,N,N,N
+KS,KOR,KR,KOR,South and North Korea combined,Korea,*,"Korea, Republic of",,65445890,Won,KRW,N,219290,84667.87,5,124,KS,South and North Korea,Seoul,Y,0,Y,Y,Y,N,Y,Y,Y
+AG,DZA,DZ,DZA,Algeria,Algeria,,Algeria,Algeria,27459230,Dinar,DZD,N,2320957,896121.5,3,4,AG,Algeria,Algiers,Y,1962,Y,Y,Y,Y,Y,Y,Y
+GI,GIB,GI,GIB,Gibraltar,Gibraltar,,Gibraltar,United Kingdom,28743,Pound,GIP,N,7.85,3.03,4,84,GI,Gibraltar,,N,0,N,N,N,N,N,N,N
+AF,AFG,AF,AFG,Afghanistan,Afghanistan,,Afghanistan,Afghanistan,17250390,Afghani,AFA,Y,642115.94,247920.95,3,3,AF,Afghanistan,Kabul,Y,1946,Y,Y,Y,N,Y,Y,Y
+MT,MLT,MT,MLT,Malta,Malta,,Malta,Malta,366410,Lira,MTL,N,294.36,113.65,2,152,MT,Malta,Valletta,Y,1964,N,Y,Y,N,Y,Y,Y
+IZ,IRQ,IQ,IRQ,Iraq,Iraq,,Iraq,Iraq,20941720,Dinar,IQD,N,436499.63,168532.5,1,112,IZ,Iraq,Baghdad,Y,1945,Y,Y,Y,Y,Y,Y,Y
+CY,CYP,CY,CYP,Cyprus,Cyprus,,Cyprus,Cyprus,739027,Pound,CYP,N,9137.21,3527.88,7,55,CY,Cyprus,Nicosia,Y,1960,Y,Y,Y,N,Y,Y,Y
+LE,LBN,LB,LBN,Lebanon,Lebanon,,Lebanon,Lebanon,2942959,Pound,LBP,N,10217.3,3944.9,2,129,LE,Lebanon,Beirut,Y,1945,Y,Y,Y,N,Y,Y,Y
+LY,LBY,LY,LBY,Libya,Libya,,Libya,Libya,5245515,Dinar,LYD,N,1620335.88,625611.75,7,137,LY,Libya,Tripoli,Y,1955,Y,Y,Y,Y,Y,Y,Y
+JO,JOR,JO,JOR,Jordan,Jordan,,Jordan,Jordan,3950283,Dinar,JOD,N,89289.88,34474.82,5,117,JO,Jordan,Amman,Y,1955,Y,Y,Y,N,Y,Y,Y
+GZ,ISR,,,Gaza Strip,Gaza,,Gaza Strip,Gaza Strip,728583,New Shekel,NIS,N,371.72,143.52,8,96,GZ,Gaza Strip,,N,0,N,N,N,N,N,N,N
+JA,JPN,JP,JPN,Japan,Japan,,Japan,Japan,125746300,Yen,JPY,N,371030.5,143254.88,6,113,JA,Japan,Tokyo,Y,1956,Y,Y,Y,N,Y,Y,Y
+PK,PAK,PK,PAK,Pakistan,Pakistan,,Pakistan,Pakistan,126693000,Rupee,PKR,N,877524.69,338812.28,4,178,PK,Pakistan,Islamabad,Y,1947,Y,Y,Y,N,Y,Y,Y
+MQ,UMI,UM,,Midway Is.,Midway,,Midway Islands,United States,-99999,US Dollar,USD,N,7.82,3.02,8,150,MQ,Midway Is.,,N,0,N,N,N,N,N,N,N
+NP,NPL,NP,NPL,Nepal,Nepal,,Nepal,Nepal,19927280,Rupee,NPR,Y,147379.91,56903.38,1,167,NP,Nepal,Kathmandu,Y,1955,N,Y,Y,N,Y,Y,Y
+BT,BTN,BT,BTN,Bhutan,Bhutan,,Bhutan,Bhutan,1586631,Ngultrum,BTN,Y,39901.84,15406.1,7,31,BT,Bhutan,Thimphu,Y,1971,N,Y,Y,N,Y,Y,N
+BF,BHS,BS,BHS,The Bahamas,Bahamas,,"Bahamas, The",The Bahamas,272209,Dollar,BSD,N,12163.91,4696.49,5,21,BF,The Bahamas,Nassau,Y,1973,N,Y,Y,N,Y,Y,Y
+WI,ESH,EH,ESH,Western Sahara,Sahara,,Western Sahara,Western Sahara,222631,Dirham,MAD,N,269554.19,104074.88,6,245,WI,Western Sahara,,N,0,N,N,N,N,N,N,N
+BG,BGD,BD,BGD,Bangladesh,Bangladesh,,Bangladesh,Bangladesh,120732200,Taka,BDT,N,138194.09,53356.74,6,22,BG,Bangladesh,Dacca,Y,1974,Y,Y,Y,N,Y,Y,Y
+TW,TWN,TW,TWN,Taiwan,Taiwan,,Taiwan,Taiwan,21465881,Dollar,TWD,N,36258.35,13999.35,4,226,TW,Taiwan,Taipei,N,0,N,N,N,N,N,N,N
+MU,OMN,OM,OMN,Oman,Oman,,Oman,Oman,2090308,Rial,OMR,N,309511.5,119502.39,7,153,MU,Oman,Muscat,Y,1971,N,Y,Y,N,Y,Y,Y
+MR,MRT,MR,MRT,Mauritania,Mauritania,,Mauritania,Mauritania,2204077,Ouguiya,MRO,N,1041443.44,402101.16,1,151,MR,Mauritania,Nouakchott,Y,1961,N,Y,Y,N,Y,Y,Y
+SA,SAU,SA,SAU,Saudi Arabia,Saudi,,Saudi Arabia,Saudi Arabia,18099990,Riyal,SAR,N,1958952.63,756351.75,3,193,SA,Saudi Arabia,Riyadh,Y,1945,Y,Y,Y,Y,Y,Y,Y
+LA,LAO,LA,LAO,Laos,Laos,,Laos,Laos,4722773,Kip,LAK,Y,230602.78,89035.74,1,128,LA,Laos,Vientiane,Y,1955,N,Y,Y,N,Y,Y,Y
+DR,DOM,DO,DOM,Dominican Republic,Dominican,,Dominican Republic,Dominican Republic,7759957,Peso Oro,DOP,N,48516.99,18732.41,4,60,DR,Dominican Republic,Santo Domingo,Y,1945,Y,Y,Y,N,Y,Y,Y
+CJ,CYM,KY,CYM,Cayman Is.,Cayman,,Cayman Islands,United Kingdom,31777,Dollar,KYD,N,209.25,80.79,4,44,CJ,Cayman Is.,,N,0,N,N,N,N,N,N,Y
+WQ,UMI,UM,,Wake I.,Wake,*,Wake Island,United States,4000,US Dollar,USD,N,18.39,7.1,7,246,WQ,Wake I.,,N,0,N,N,N,N,N,N,N
+VI,VGB,VG,VGB,British Virgin Is.,Virgin,*,British Virgin Islands,United Kingdom,18194,US Dollar,USD,N,115.74,44.69,8,238,VI,British Virgin Is.,,N,0,N,N,N,N,N,N,Y
+RQ,PRI,PR,PRI,Puerto Rico,Puerto,,Puerto Rico,United States,3647931,US Dollar,USD,N,9176.41,3543.01,8,190,RQ,Puerto Rico,San Juan,N,0,N,N,N,N,N,N,N
+AV,AIA,AI,AIA,Anguilla,Anguilla,,Anguilla,United Kingdom,9208,EC Dollar,XCD,N,91.57,35.36,6,14,AV,Anguilla,,N,0,N,N,N,N,N,N,Y
+NG,NER,NE,NER,Niger,Niger,,Niger,Niger,8797739,CFA Franc,XOF,Y,1185860.63,457860.94,1,162,NG,Niger,Niamey,Y,1960,Y,Y,Y,N,Y,Y,Y
+ER,ERI,ER,ERI,Eritrea,Eritrea,,Eritrea,Eritrea,3662271,Birr,ETB,N,121331.95,46846.25,8,66,ER,Eritrea,Asmara,N,0,N,N,N,N,N,N,N
+SC,KNA,KN,KNA,St. Kitts & Nevis,Kitts,,St. Kitts and Nevis,St. Kitts & Nevis,42908,EC Dollar,XCD,N,196.24,75.77,5,195,SC,St. Kitts & Nevis,Basseterre,Y,1983,N,Y,Y,N,Y,Y,N
+AC,ATG,AG,ATG,Antigua & Barbuda,Antigua,,Antigua and Barbuda,Antigua & Barbuda,65212,EC Dollar,XCD,N,538.66,207.98,2,1,AC,Antigua & Barbuda,Saint John's,Y,1981,N,Y,Y,N,Y,Y,Y
+AC,ATG,AG,ATG,Antigua & Barbuda,Barbuda,,Antigua and Barbuda,Antigua & Barbuda,65212,EC Dollar,XCD,N,538.66,207.98,2,1,AC,Antigua & Barbuda,Saint John's,Y,1981,N,Y,Y,N,Y,Y,Y
+MH,MSR,MS,MSR,Montserrat,Montserrat,,Montserrat,United Kingdom,12771,EC Dollar,XCD,N,112.95,43.61,1,143,MH,Montserrat,,N,0,N,N,N,N,N,N,Y
+JQ,UMI,UM,,Johnston Atoll,Atoll,,Johnston Atoll,United States,-99999,US Dollar,USD,N,0.49,0.19,7,118,JQ,Johnston Atoll,,N,0,N,N,N,N,N,N,N
+PF,XPF,,,Paracel Is.,Paracel,,Paracel Islands,Paracel Is.,-99999,,NCIC,N,1.71,0.66,2,176,PF,Paracel Is.,,N,0,N,N,N,N,N,N,N
+ML,MLI,ML,MLI,Mali,Mali,,Mali,Mali,9744733,CFA Franc,XOF,Y,1256377.38,485087.16,4,146,ML,Mali,Bamako,Y,1960,Y,Y,Y,N,Y,Y,Y
+SG,SEN,SN,SEN,Senegal,Senegal,,Senegal,Senegal,8116554,CFA Franc,XOF,N,196731,75957.84,8,198,SG,Senegal,Dakar,Y,1960,Y,Y,Y,N,Y,Y,Y
+GP,GLP,GP,GLP,Guadeloupe,Guadeloupe,,Guadeloupe,France,410638,Franc,FRF,N,1657.57,639.99,2,90,GP,Guadeloupe,,N,0,N,N,N,N,N,N,N
+CV,CPV,CV,CPV,Cape Verde,Verde,,Cape Verde,Cape Verde,413573,Escudo,CVE,N,4045.23,1561.86,5,53,CV,Cape Verde,Praia,Y,1975,N,Y,Y,N,Y,Y,Y
+CQ,MNP,MP,MNP,Northern Mariana Is.,Mariana,,Northern Mariana Islands,United States,60963,US Dollar,USD,N,237.9,91.85,1,49,CQ,Northern Mariana Is.,,N,0,N,N,N,N,N,N,N
+UV,BFA,BF,BFA,Burkina Faso,Burkina,,Burkina Faso,Burkina Faso,10164690,CFA Franc,XOF,Y,273395.47,105558,2,233,UV,Burkina Faso,Ouagadougou,Y,1960,N,Y,Y,N,Y,Y,Y
+ET,ETH,ET,ETH,Ethiopia,Ethiopia,,Ethiopia,Ethiopia,53142970,Birr,ETB,Y,1132236.13,437156.31,4,68,ET,Ethiopia,Addis Ababa,Y,1945,Y,Y,Y,N,Y,Y,Y
+MB,MTQ,MQ,MTQ,Martinique,Martinique,,Martinique,France,374574,Franc,FRF,N,1152.16,444.85,4,139,MB,Martinique,,N,0,N,N,N,N,N,N,N
+ST,LCA,LC,LCA,St. Lucia,Lucia,,St. Lucia,St. Lucia,141743,EC Dollar,XCD,N,637.62,246.19,1,207,ST,St. Lucia,Castries,Y,1979,N,Y,Y,N,Y,Y,Y
+ES,SLV,SV,SLV,El Salvador,Salvador,*,El Salvador,El Salvador,5752470,Colon,SVC,N,20646.47,7971.6,1,67,ES,El Salvador,San Salvador,Y,1945,Y,Y,Y,N,Y,Y,Y
+GQ,GUM,GU,GUM,Guam,Guam,,Guam,United States,143173,US Dollar,USD,N,577.92,223.13,3,91,GQ,Guam,,N,0,N,N,N,N,N,N,N
+VC,VCT,VC,VCT,St. Vincent & the Grenadines,Grenadines,,St. Vincent and the Grenadines,St. Vincent & the Grenadines,110459,EC Dollar,XCD,N,343.53,132.64,6,236,VC,St. Vincent & the Grenadines,Kingstown,Y,1980,N,Y,Y,N,Y,Y,N
+BB,BRB,BB,BRB,Barbados,Barbados,,Barbados,Barbados,260627,Dollar,BBD,N,447.98,172.97,1,17,BB,Barbados,Bridgetown,Y,1966,N,Y,Y,N,Y,Y,Y
+RP,PHL,PH,PHL,Philippines,Philippines,,Philippines,Philippines,65981120,Peso,PHP,N,293545.47,113337.91,7,189,RP,Philippines,Manila,Y,1945,Y,Y,Y,N,Y,Y,Y
+CM,CMR,CM,CMR,Cameroon,Cameroon,,Cameroon,Cameroon,13218480,CFA Franc,XAF,N,466768.94,180219.47,7,46,CM,Cameroon,Yaounde,Y,1960,Y,Y,Y,N,Y,Y,Y
+NU,NIC,NI,NIC,Nicaragua,Nicaragua,,Nicaragua,Nicaragua,4275103,Cordoba Oro,NIO,N,128594.63,49650.38,5,171,NU,Nicaragua,Managua,Y,1945,Y,Y,Y,N,Y,Y,Y
+BM,MMR,MM,MMR,Myanmar,Myanmar,,Myanmar (Burma),Myanmar,43099620,Kyat,MMK,N,668869.31,258250.44,8,26,BM,Myanmar,Rangoon,Y,1948,Y,Y,Y,N,Y,Y,Y
+AA,ABW,AW,ABW,Aruba,Aruba,,Aruba,Netherlands,67074,Florin,AWG,N,200.35,77.35,1,0,AA,Aruba,,N,0,N,N,N,N,N,N,N
+CB,KHM,KH,KHM,Cambodia,Cambodia,,Cambodia,Cambodia,9129576,Riel,KHR,N,182438.2,70439.39,5,37,CB,Cambodia,Phnom Penh,Y,1955,Y,Y,Y,N,Y,Y,Y
+NT,ANT,AN,ANT,Netherlands Antilles,Antilles,,Netherlands Antilles,Netherlands,191572,Guilder,ANG,N,791.72,305.68,4,170,NT,Netherlands Antilles,,N,0,N,N,N,N,N,N,Y
+GJ,GRD,GD,GRD,Grenada,Grenada,,Grenada,Grenada,95608,EC Dollar,XCD,N,347.59,134.21,5,85,GJ,Grenada,Saint George's,Y,1974,N,Y,Y,N,Y,Y,N
+DJ,DJI,DJ,DJI,Djibouti,Djibouti,,Djibouti,Djibouti,450751,Djibouti Franc,DJF,N,21519.54,8308.69,1,57,DJ,Djibouti,Djibouti,Y,1977,N,Y,Y,N,Y,Y,Y
+TD,TTO,TT,TTO,Trinidad & Tobago,Trinidad,,Trinidad and Tobago,Trinidad & Tobago,1292000,Dollar,TTD,N,5030.55,1942.29,1,214,TD,Trinidad & Tobago,Port of Spain,Y,1962,N,Y,Y,N,Y,Y,Y
+TD,TTO,TT,TTO,Trinidad & Tobago,Tobago,,Trinidad and Tobago,Trinidad & Tobago,1292000,Dollar,TTD,N,5030.55,1942.29,1,214,TD,Trinidad & Tobago,Port of Spain,Y,1962,N,Y,Y,N,Y,Y,Y
+CD,TCD,TD,TCD,Chad,Chad,,Chad,Chad,6308708,CFA Franc,XOF,Y,1276294.13,492777.13,8,38,CD,Chad,Ndjamena,Y,1960,N,Y,Y,N,Y,Y,Y
+TO,TGO,TG,TGO,Togo,Togo,,Togo,Togo,4048365,CFA Franc,XOF,N,57356.77,22145.45,7,221,TO,Togo,Lome,Y,1960,N,Y,Y,N,Y,Y,Y
+PG,XPG,,,Spratly Is.,Spratly,,Spratly Islands,Spratly Is.,-99999,,NCIC,N,4.29,1.66,3,177,PG,Spratly Is.,,N,0,N,N,N,N,N,N,N
+SL,SLE,SL,SLE,Sierra Leone,Sierra,,Sierra Leone,Sierra Leone,4551746,Leone,SLL,N,72789.16,28103.89,3,201,SL,Sierra Leone,Freetown,Y,1961,Y,Y,Y,N,Y,Y,Y
+GY,GUY,GY,GUY,Guyana,Guyana,,Guyana,Guyana,754931,Dollar,GYD,N,211507.8,81663.16,4,95,GY,Guyana,Georgetown,Y,1966,N,Y,Y,N,Y,Y,Y
+LI,LBR,LR,LBR,Liberia,Liberia,,Liberia,Liberia,2902441,Dollar,LRD,N,96418.34,37227.12,5,132,LI,Liberia,Monrovia,Y,1945,Y,Y,Y,N,Y,Y,Y
+BN,BEN,BJ,BEN,Benin,Benin,,Benin,Benin,5175394,CFA Franc,XOF,N,116660.55,45042.66,5,27,BN,Benin,Porto Novo,Y,1960,N,Y,Y,N,Y,Y,Y
+CE,LKA,LK,LKA,Sri Lanka,Lanka,,Sri Lanka,Sri Lanka,18321920,Rupee,LKR,N,66319.2,25605.84,7,39,CE,Sri Lanka,Colombo,Y,1955,Y,Y,Y,N,Y,Y,Y
+NI,NGA,NG,NGA,Nigeria,Nigeria,,Nigeria,Nigeria,97228750,Naira,NGN,N,912245,352217.78,6,164,NI,Nigeria,Abuja,Y,1960,Y,Y,Y,Y,Y,Y,Y
+SU,SDN,SD,SDN,Sudan,Sudan,,Sudan,Sudan,27713420,Dinar,SDD,N,2496005.5,963707.94,2,208,SU,Sudan,Khartoum,Y,1956,Y,Y,Y,N,Y,Y,Y
+MY,MYS,MY,MYS,Malaysia,Malaysia,,Malaysia,Malaysia,19626380,Ringgit,MYR,N,329950.53,127393.89,6,157,MY,Malaysia,Kuala Lumpur,Y,1957,Y,Y,Y,N,Y,Y,Y
+NS,SUR,SR,SUR,Suriname,Suriname,,Suriname,Suriname,428026,Guilder,SRG,N,145625.89,56226.16,3,169,NS,Suriname,Paramaribo,Y,1975,N,Y,Y,N,Y,Y,Y
+FG,GUF,GF,GUF,French Guiana,Guiana,,French Guiana,France,130219,Franc,FRF,N,83963.16,32418.18,5,70,FG,French Guiana,Cayenne,N,0,N,N,N,N,N,N,N
+SO,SOM,SO,SOM,Somalia,Somalia,,Somalia,Somalia,9951515,Shilling,SOS,N,639000.88,246718.25,6,204,SO,Somalia,Mogadishu,Y,1960,N,Y,Y,N,Y,Y,Y
+FM,FSM,FM,FSM,Micronesia,Micronesia,,Federated States of Micronesia,Micronesia,111607,US Dollar,USD,N,518.46,200.18,2,74,FM,Micronesia,Palikir,N,1991,N,Y,Y,N,N,Y,N
+BX,BRN,BN,BRN,Brunei,Brunei,,Brunei,Brunei,281614,Dollar,BND,N,5772.13,2228.62,2,34,BX,Brunei,Bandar Seri Begawan,N,1984,N,N,N,N,N,Y,Y
+MV,MDV,MV,MDV,Maldives,Maldives,,Maldives,Maldives,11511,Rufiyaa,MVR,N,33.77,13.04,4,154,MV,Maldives,,Y,1965,N,Y,Y,N,Y,Y,Y
+EK,GNQ,GQ,GNQ,Equatorial Guinea,Equatorial,,Equatorial Guinea,Equatorial Guinea,386373,CFA Franc,XOF,N,27042.03,10440.93,8,64,EK,Equatorial Guinea,Malabo,Y,1968,N,Y,Y,N,Y,Y,N
+UG,UGA,UG,UGA,Uganda,Uganda,,Uganda,Uganda,18144360,Schilling,UGX,Y,243157.38,93883.07,7,229,UG,Uganda,Kampala,Y,1962,Y,Y,Y,N,Y,Y,Y
+SN,SGP,SG,SGP,Singapore,Singapore,,Singapore,Singapore,2824024,Dollar,SGD,N,553.63,213.76,5,203,SN,Singapore,Singapore,N,1965,Y,Y,Y,N,N,Y,Y
+HQ,UMI,UM,,Howland I.,Howland,,Howland Island,United States,-99999,,NCIC,N,2.24,0.87,5,100,HQ,Howland I.,,N,0,N,N,N,N,N,N,N
+TP,STP,ST,STP,Sao Tome & Principe,Tome,,Sao Tome and Principe,Sao Tome & Principe,128603,Dobra,STD,N,1147.2,442.93,8,222,TP,Sao Tome & Principe,Sao Tome,Y,1975,N,Y,Y,N,Y,Y,Y
+FQ,UMI,UM,,Baker I.,Baker,*,Baker Island,United States,-99999,,NCIC,N,0.42,0.16,5,77,FQ,Baker I.,,N,0,N,N,N,N,N,N,N
+KE,KEN,KE,KEN,Kenya,Kenya,,Kenya,Kenya,25835250,Schilling,KES,N,584462.75,225661.09,1,120,KE,Kenya,Nairobi,Y,1963,Y,Y,Y,N,Y,Y,Y
+DQ,UMI,UM,,Jarvis I.,Jarvis,,Jarvis Island,United States,-99999,,NCIC,N,8.23,3.18,3,59,DQ,Jarvis I.,,N,0,N,N,N,N,N,N,N
+NR,NRU,NR,NRU,Nauru,Nauru,,Nauru,Nauru,10000,Australia Dollar,AUD,N,27.29,10.53,2,168,NR,Nauru,Yaren,N,0,N,N,N,N,N,N,N
+GB,GAB,GA,GAB,Gabon,Gabon,,Gabon,Gabon,1561195,CFA Franc,XOF,N,261859.89,101104.11,1,81,GB,Gabon,Libreville,Y,1960,Y,Y,Y,Y,Y,Y,Y
+EC,ECU,EC,ECU,Ecuador,Ecuador,,Ecuador,Ecuador,10541820,Sucre,ECS,N,256450.8,99015.66,5,61,EC,Ecuador,Quito,Y,1945,Y,Y,Y,Y,Y,Y,Y
+RW,RWA,RW,RWA,Rwanda,Rwanda,,Rwanda,Rwanda,7934396,Franc,RWF,Y,25249.05,9748.66,2,192,RW,Rwanda,Kigali,Y,1962,N,Y,Y,N,Y,Y,Y
+BY,BDI,BI,BDI,Burundi,Burundi,,Burundi,Burundi,6011039,Franc,BIF,Y,27306.62,10543.09,3,35,BY,Burundi,Bujumbura,Y,1962,N,Y,Y,N,Y,Y,Y
+CG,ZAR,CD,COD,"Congo, DRC",Congo,*,Congo (Democratic Republic of the),"Congo, DRC",43344196,Zaire,ZRZ,N,2682399.22,1035674.53,4,41,CG,"Congo, DRC",Kinshasa,Y,1960,Y,Y,Y,N,Y,Y,Y
+TV,TUV,TV,TUV,Tuvalu,Tuvalu,,Tuvalu,Tuvalu,13000,Australia Dollar,AUD,N,29.11,11.24,3,225,TV,Tuvalu,Vaiaku,N,0,N,N,N,N,Y,Y,N
+TZ,TZA,TZ,TZA,Tanzania,Tanzania,,"Tanzania, United Republic of",Tanzania,28386270,Schilling,TZS,N,945437.56,365033.47,6,228,TZ,Tanzania,Dar es Salaam,Y,1961,Y,Y,Y,N,Y,Y,Y
+IO,IOT,IO,IOT,British Indian Ocean Territory,Ocean,*,British Indian Ocean Territory,United Kingdom,-99999,US Dollar,USD,N,90.81,35.06,4,107,IO,British Indian Ocean Territory,,N,0,N,N,N,N,N,N,N
+BP,SLB,SB,SLB,Solomon Is.,Solomon,,Solomon Islands,Solomon Is.,366000,Dollar,SBD,N,27096.56,10461.98,5,29,BP,Solomon Is.,Honiara,Y,1978,N,Y,Y,N,Y,Y,Y
+TM,ETM,,,East Timor,Timor,,East Timor,To be determined,857000,,,N,15105.01,5832.04,2,219,TM,East Timor,Dili,N,0,N,N,N,N,N,N,N
+TL,TKL,TK,TKL,Tokelau,Tokelau,,Tokelau,New Zealand,1600,NZ Dollar,NZD,N,7.4,2.86,5,218,TL,Tokelau,,N,0,N,N,N,N,N,N,N
+SE,SYC,SC,SYC,Seychelles,Seychelles,,Seychelles,Seychelles,73000,Rupee,SCR,N,379.31,146.45,6,196,SE,Seychelles,Victoria,Y,1976,N,Y,Y,N,Y,Y,Y
+KT,CXR,CX,CXR,Christmas I.,Christmas,,Christmas Island,Australia,813,Australia Dollar,AUD,N,124.48,48.06,6,125,KT,Christmas I.,,N,0,N,N,N,N,N,N,N
+GO,REU,,,Glorioso Is.,Glorioso,,Glorioso Islands,France,-99999,,NCIC,N,4.93,1.91,1,89,GO,Glorioso Is.,,N,0,N,N,N,N,N,N,N
+CN,COM,KM,COM,Comoros,Comoros,,Comoros,Comoros,634656,Franc,KMF,N,1722.97,665.24,7,47,CN,Comoros,Moroni,Y,1975,N,Y,Y,N,Y,Y,Y
+CK,CCK,CC,CCK,Cocos Is.,Cocos,,Cocos (Keeling) Islands,Australia,609,Australia Dollar,AUD,N,18.02,6.96,5,45,CK,Cocos Is.,,N,0,N,N,N,N,N,N,N
+MI,MWI,MW,MWI,Malawi,Malawi,,Malawi,Malawi,10660480,Kwacha,MWK,Y,118933.85,45920.38,2,144,MI,Malawi,Lilongwe,Y,1964,N,Y,Y,N,Y,Y,Y
+WS,WSM,WS,WSM,Samoa,Samoa,,Samoa,Samoa,212000,Tala,WST,N,3112.91,1201.89,8,247,WS,Samoa,Apia,Y,1976,N,Y,Y,N,Y,Y,N
+ZA,ZMB,ZM,ZMB,Zambia,Zambia,,Zambia,Zambia,8778681,Kwacha,ZMK,Y,754731.06,291401.69,5,250,ZA,Zambia,Lusaka,Y,1964,Y,Y,Y,N,Y,Y,Y
+NH,VUT,VU,VUT,Vanuatu,Vanuatu,,Vanuatu,Vanuatu,165000,Vatu,VUV,N,12306.75,4751.64,5,163,NH,Vanuatu,Port Vila,Y,1981,N,Y,Y,N,N,Y,Y
+WF,WLF,WF,WLF,Wallis & Futuna,Futuna,,Wallis and Futuna,France,14000,CFP Franc,XPF,N,161.08,62.19,5,244,WF,Wallis & Futuna,,N,0,N,N,N,N,N,N,N
+AS,AUS,AU,AUS,Australia,Australia,,Australia,Australia,17827520,Australia Dollar,AUD,N,7701651,2973607.5,4,12,AS,Australia,Canberra,Y,1945,Y,Y,Y,N,Y,Y,Y
+SH,SHN,SH,SHN,St. Helena,Helena,,St. Helena,United Kingdom,6782,Pound,SHP,N,130.93,50.55,1,199,SH,St. Helena,,N,0,N,N,N,N,N,N,N
+ZI,ZWE,ZW,ZWE,Zimbabwe,Zimbabwe,,Zimbabwe,Zimbabwe,11106690,Dollar,ZWD,Y,391052.59,150985.41,4,251,ZI,Zimbabwe,Harare,Y,1980,Y,Y,Y,N,Y,Y,Y
+JU,REU,,,Juan De Nova I.,Nova,*,Juan De Nova Island,France,-99999,,NCIC,N,5.76,2.22,8,119,JU,Juan De Nova I.,,N,0,N,N,N,N,N,N,N
+FP,PYF,PF,PYF,French Polynesia,Polynesia,,French Polynesia,France,217000,CFP Franc,XPF,N,2090.62,807.19,4,76,FP,French Polynesia,,N,0,N,N,N,N,N,N,Y
+CW,COK,CK,COK,Cook Is.,Cook,,Cook Islands,New Zealand,17000,NZ Dollar,NZD,N,150.94,58.28,6,54,CW,Cook Is.,,N,0,N,N,N,N,Y,Y,N
+NE,NIU,NU,NIU,Niue,Niue,,Niue,New Zealand,2000,NZ Dollar,NZD,N,250.26,96.63,2,160,NE,Niue,,N,0,N,N,N,N,N,N,N
+MP,MUS,MU,MUS,Mauritius,Mauritius,,Mauritius,Mauritius,1097234,Rupee,MUR,N,2151.23,830.59,7,149,MP,Mauritius,Port Louis,Y,1968,Y,Y,Y,N,Y,Y,Y
+RE,REU,RE,REU,Reunion,Reunion,,Reunion,France,644000,Franc,FRF,N,2649.29,1022.89,4,186,RE,Reunion,,N,0,N,N,N,N,N,N,N
+WA,NAM,NA,NAM,Namibia,Namibia,,Namibia,Namibia,1575611,Dollar,NAD,N,826866.69,319253.22,3,242,WA,Namibia,Windhoek,Y,1990,Y,Y,Y,N,Y,Y,N
+NC,NCL,NC,NCL,New Caledonia,Caledonia,,New Caledonia,France,178000,CFP Franc,XPF,N,18896.23,7295.83,1,159,NC,New Caledonia,,N,0,N,N,N,N,N,N,Y
+PA,PRY,PY,PRY,Paraguay,Paraguay,,Paraguay,Paraguay,4773464,Guarani,PYG,Y,399758.34,154346.67,7,173,PA,Paraguay,Asuncion,Y,1945,Y,Y,Y,N,Y,Y,Y
+BC,BWA,BW,BWA,Botswana,Botswana,,Botswana,Botswana,1446623,Pula,BWP,Y,579821.25,223869,2,18,BC,Botswana,Gaborone,Y,1966,N,Y,Y,N,Y,Y,Y
+PC,PCN,PN,PCN,Pitcairn Is.,Pitcairn,,Pitcairn Islands,United Kingdom,56,NZ Dollar,NZD,N,48.23,18.62,8,174,PC,Pitcairn Is.,,N,0,N,N,N,N,N,N,N
+AR,ARG,AR,ARG,Argentina,Argentina,,Argentina,Argentina,33796870,Peso,ARP,N,2781207,1073824,8,11,AR,Argentina,Buenos Aires,Y,1945,Y,Y,Y,N,Y,Y,Y
+WZ,SWZ,SZ,SWZ,Swaziland,Swaziland,,Swaziland,Swaziland,842766,Lilangeni,SZL,Y,17141.28,6618.25,1,248,WZ,Swaziland,Mbabne,Y,1968,N,Y,Y,N,Y,Y,Y
+NF,NFK,NF,NFK,Norfolk I.,Norfolk,,Norfolk Island,Australia,2209,Australia Dollar,AUD,N,49.05,18.94,3,161,NF,Norfolk I.,,N,0,N,N,N,N,N,N,N
+SF,ZAF,ZA,ZAF,South Africa,South,,South Africa,South Africa,40634126,Rand,ZAR,N,1221845.38,471754.34,7,197,SF,South Africa,Pretoria,N,1945,Y,Y,Y,N,N,Y,Y
+LT,LSO,LS,LSO,Lesotho,Lesotho,,Lesotho,Lesotho,1928269,Maloti,LSL,Y,30553,11796.51,8,135,LT,Lesotho,Maseru,Y,1966,N,Y,Y,N,Y,Y,Y
+UY,URY,UY,URY,Uruguay,Uruguay,,Uruguay,Uruguay,3084641,Peso,UYU,N,177958.53,68709.77,4,234,UY,Uruguay,Montevideo,Y,1945,Y,Y,Y,N,Y,Y,Y
+NZ,NZL,NZ,NZL,New Zealand,Zealand,,New Zealand,New Zealand,3528197,NZ Dollar,NZD,N,268341.13,103606.5,6,172,NZ,New Zealand,Wellington,Y,1945,Y,Y,Y,N,Y,Y,Y
+FS,ATF,TF,ATF,French Southern & Antarctic Lands,Antarctic,*,French Southern & Antarctic Lands,France,-99999,,NCIC,N,7455.32,2878.5,7,79,FS,French Southern & Antarctic Lands,,N,0,N,N,N,N,N,N,N
+FK,FLK,FK,FLK,Falkland Is.,Falkland,,Falkland Islands (Islas Malvinas),United Kingdom,2136,Pound,FKP,N,11449.72,4420.74,1,73,FK,Falkland Is.,,N,0,N,N,N,N,N,N,N
+HM,HMD,HM,HMD,Heard I. & McDonald Is.,McDonald,*,Heard Island & McDonald Islands,Australia,-99999,,NCIC,N,398.59,153.9,3,98,HM,Heard I. & McDonald Is.,,N,0,N,N,N,N,N,N,N
+SX,SGS,GS,SGS,South Georgia & the South Sandwich Is.,Sandwich,*,South Georgia and the South Sandwich Is,United Kingdom,-99999,,NCIC,N,3701.71,1429.23,5,211,SX,South Georgia & the South Sandwich Is.,,N,0,N,N,N,N,N,N,N
+BV,NOR,BV,BVT,Bouvet I.,Bouvet,,Bouvet Island,Norway,-99999,Norwegian Krone,NOK,N,57.22,22.09,1,33,BV,Bouvet I.,,N,0,N,N,N,N,N,N,N
+AY,ATA,AQ,ATA,Antarctica,Antarctica,,Antarctica,Antarctica,-99999,,NCIC,N,12303052,4750207.5,7,15,AY,Antarctica,,N,0,N,N,N,N,N,N,N
+KZ,KAZ,KZ,KAZ,Kazakhstan,Kazakhstan,,Kazakhstan,Kazakhstan,17117910,Tenge,KZT,Y,2834031.75,1094219.75,8,127,KZ,Kazakhstan,Astana,N,1991,N,N,Y,N,N,N,N
+GG,GEO,GE,GEO,Georgia,Georgia,,Georgia,Georgia,5595552,Lari,GEL,N,69847.78,26968.23,5,82,GG,Georgia,T'Bilisi,N,0,N,N,Y,N,N,N,N
+VT,VTC,,,Vatican City,Vatican,,Vatican City,Vatican City,860,,VLIT,Y,0.56,0.22,1,241,VT,Vatican City,,Y,0,Y,N,N,N,Y,N,N
+AM,ARM,AM,ARM,Armenia,Armenia,,Armenia,Armenia,3377228,Dram,AMD,Y,29636.09,11442.49,7,7,AM,Armenia,Yerevan,N,1991,N,N,N,N,N,N,N
+IR,IRN,IR,IRN,Iran,Iran,,Iran,Iran,64193450,Rial,IRR,N,1679290.88,648374.25,6,108,IR,Iran,Tehran,Y,1945,Y,Y,Y,Y,Y,Y,Y
+BA,BHR,BH,BHR,Bahrain,Bahrain,,Bahrain,Bahrain,575814,Dinar,BHD,N,641.5,247.68,8,16,BA,Bahrain,Al Manamah,Y,1971,N,Y,Y,N,Y,Y,Y
+QA,QAT,QA,QAT,Qatar,Qatar,,Qatar,Qatar,478000,Riyal,QAR,N,11118.71,4292.93,3,185,QA,Qatar,Doha,Y,1971,Y,Y,Y,Y,Y,Y,Y
+NL,NLD,NL,NLD,Netherlands,Netherlands,,Netherlands,Netherlands,15447470,Guilder,NLG,N,35405.83,13670.19,7,165,NL,Netherlands,Amsterdam,Y,1945,Y,Y,Y,N,Y,Y,Y
+BE,BEL,BE,BEL,Belgium,Belgium,,Belgium,Belgium,10032460,Franc,BEF,N,30543.43,11792.82,4,20,BE,Belgium,Brussels,Y,1945,Y,Y,Y,N,Y,Y,Y
+IV,CIV,CI,CIV,Cote d'Ivory,Cote,,Cote d'Ivoire,Cote d'Ivory,13498860,CFA Franc,XOF,N,322688.38,124589.99,8,111,IV,Cote d'Ivory,Yamoussoukro,Y,1960,Y,Y,Y,N,Y,Y,Y
+MX,MEX,MX,MEX,Mexico,Mexico,,Mexico,Mexico,92380850,New Peso,MXP,N,1961254.13,757240.19,3,156,MX,Mexico,Mexico City,Y,1945,Y,Y,Y,N,Y,Y,Y
+TN,TON,TO,TON,Tonga,Tonga,,Tonga,Tonga,98000,Pa'anga,TOP,N,457.78,176.75,6,220,TN,Tonga,Nuku' alofa,Y,0,N,Y,Y,N,Y,Y,N
+US,USA,US,USA,United States,USA,*,United States,United States,258833000,US Dollar,USD,N,9449362,3648398.75,5,232,US,United States,Washington D.C.,Y,1945,Y,Y,Y,N,N,Y,Y
+SB,SPM,PM,SPM,St. Pierre & Miquelon,Miquelon,,St. Pierre and Miquelon,France,6809,Franc,FRF,N,222.36,85.85,4,194,SB,St. Pierre & Miquelon,,N,0,N,N,N,N,N,N,N
+BD,BMU,BM,BMU,Bermuda,Bermuda,,Bermuda,United Kingdom,59973,Dollar,BMD,N,19.8,7.65,3,19,BD,Bermuda,,N,0,N,N,N,N,N,N,Y
+CI,CHL,CL,CHL,Chile,Chile,,Chile,Chile,13772710,Peso,CLP,N,744097.5,287296.03,3,43,CI,Chile,Santiago,Y,1945,Y,Y,Y,N,Y,Y,Y
+CA,CAN,CA,CAN,Canada,Canada,,Canada,Canada,28402320,Dollar,CAD,N,9901803,3823086.25,4,36,CA,Canada,Ottawa,Y,1945,Y,Y,Y,N,Y,Y,Y
+DO,DMA,DM,DMA,Dominica,Dominica,,Dominica,Dominica,70671,EC Dollar,XCD,N,766.97,296.13,2,58,DO,Dominica,Roseau,Y,1978,N,Y,Y,N,Y,Y,Y
+VE,VEN,VE,VEN,Venezuela,Venezuela,,Venezuela,Venezuela,19857850,Bolivar,VEB,N,914733.63,353178.66,7,237,VE,Venezuela,Caracas,Y,1945,Y,Y,Y,Y,Y,Y,Y
+PE,PER,PE,PER,Peru,Peru,,Peru,Peru,24496400,Nuevo Sol,PEN,N,1296092.25,500421.13,1,175,PE,Peru,Lima,Y,1945,Y,Y,Y,N,Y,Y,Y
+BL,BOL,BO,BOL,Bolivia,Bolivia,,Bolivia,Bolivia,7648315,Boliviano,BOB,Y,1090178.38,420917.72,2,25,BL,Bolivia,La Paz,Y,1945,Y,Y,Y,N,Y,Y,Y
+BR,BRA,BR,BRA,Brazil,Brazil,,Brazil,Brazil,151525400,Cruzeiro Real,BRL,N,8504535,3283601,6,30,BR,Brazil,Brasilia,Y,1945,Y,Y,Y,N,Y,Y,Y
+VQ,VIR,VI,VIR,Virgin Is.,Virgin,*,Virgin Islands,United States,101614,US Dollar,USD,N,218.95,84.54,2,240,VQ,Virgin Is.,,N,0,N,N,N,N,N,N,N
+BH,BLZ,BZ,BLZ,Belize,Belize,,Belize,Belize,207586,Dollar,BZD,N,22105.57,8534.96,7,23,BH,Belize,Belmopan,Y,1981,N,Y,Y,N,Y,N,Y
+HO,HND,HN,HND,Honduras,Honduras,,Honduras,Honduras,5367067,Lempira,HNL,N,112602.64,43475.86,4,99,HO,Honduras,Tegucigalpa,Y,1945,N,Y,Y,N,Y,Y,Y
+GT,GTM,GT,GTM,Guatemala,Guatemala,,Guatemala,Guatemala,10321270,Quetzal,GTQ,N,109383.59,42233.01,8,93,GT,Guatemala,Guatemala,Y,1945,Y,Y,Y,N,Y,Y,Y
+CS,CRI,CR,CRI,Costa Rica,Costa,,Costa Rica,Costa Rica,3319438,Colon,CRC,N,51259.51,19791.3,2,50,CS,Costa Rica,San Jose,Y,1945,Y,Y,Y,N,Y,Y,Y
+PM,PAN,PA,PAN,Panama,Panama,,Panama,Panama,2562045,Balboa,PAB,N,74381.66,28718.76,6,180,PM,Panama,Panama,Y,1945,Y,Y,Y,N,Y,Y,Y
+CO,COL,CO,COL,Colombia,Colombia,,Colombia,Colombia,34414590,Peso,COP,N,1140073.5,440182.56,8,48,CO,Colombia,Bogota,Y,1945,Y,Y,Y,N,Y,Y,Y
+JM,JAM,JM,JAM,Jamaica,Jamaica,,Jamaica,Jamaica,2407607,Dollar,JMD,N,11066.84,4272.91,4,115,JM,Jamaica,Kingston,Y,1962,Y,Y,Y,N,Y,Y,Y
+HA,HTI,HT,HTI,Haiti,Haiti,,Haiti,Haiti,7044890,Gourde,HTG,N,27235.6,10515.67,1,97,HA,Haiti,Port-au-Prince,Y,1945,Y,Y,Y,N,Y,Y,Y
+CU,CUB,CU,CUB,Cuba,Cuba,,Cuba,Cuba,11102280,Peso,CUP,N,109481.52,42270.81,6,52,CU,Cuba,Havana,Y,1945,Y,N,N,N,Y,Y,Y
+TK,TCA,TC,TCA,Turks & Caicos Is.,Caicos,,Turks and Caicos Islands,United Kingdom,14512,US Dollar,USD,N,286.84,110.75,4,217,TK,Turks & Caicos Is.,,N,0,N,N,N,N,N,N,N
+FJ,FJI,FJ,FJI,Fiji,Fiji,,Fiji,Fiji,755000,Dollar,FJD,N,18092.36,6985.46,8,72,FJ,Fiji,Suva,Y,1970,N,Y,Y,N,Y,Y,Y
+KR,KIR,KI,KIR,Kiribati,Kiribati,,Kiribati,Kiribati,77000,Australia Dollar,AUD,N,420.77,162.46,4,123,KR,Kiribati,Bairiki,N,0,N,Y,Y,N,Y,Y,N
+RM,MHL,MH,MHL,Marshall Is.,Marshall,*,Marshall Islands,Marshall Is.,53363,US Dollar,USD,N,31.87,12.31,5,187,RM,Marshall Is.,Dalap-Uliga-Dorrit,N,1991,N,Y,Y,N,N,Y,N
+PP,PNG,PG,PNG,Papua New Guinea,Papua,,Papua New Guinea,Papua New Guinea,4039033,Kina,PGK,N,463846.59,179091.17,8,182,PP,Papua New Guinea,Port Moresby,Y,1975,N,Y,Y,N,Y,Y,Y
+PS,PLW,PW,PLW,Palau,Palau,,Palau,United States,16411,US Dollar,USD,N,353.78,136.59,1,183,PS,Palau,,N,0,N,N,N,N,N,N,N
+CH,CHN,CN,CHN,China,China,,China,China,1281396894,Renminbi Yuan,CNY,N,9367281,3616707.25,2,42,CH,China,Beijing,Y,1945,Y,Y,Y,N,Y,Y,Y
+IN,IND,IN,IND,India,India,,India,India,894608700,Rupee,INR,N,3159685.5,1219954.75,5,106,IN,India,New Delhi,Y,1945,Y,Y,Y,N,Y,Y,Y
+MA,MDG,MG,MDG,Madagascar,Madagascar,,Madagascar,Madagascar,13046690,Franc,MGF,N,594752.19,229633.83,3,138,MA,Madagascar,Antananarivo,Y,1960,Y,Y,Y,N,Y,Y,Y
+MF,MYT,YT,MYT,Mayotte,Mayotte,,Mayotte,France,100838,Franc,FRF,N,436.96,168.71,7,141,MF,Mayotte,,N,0,N,N,N,N,N,N,N
+AO,AGO,AO,AGO,Angola,Angola,,Angola,Angola,11527260,New Kwanza,AON,N,1252148.63,483454.72,1,9,AO,Angola,Luanda,Y,1976,N,N,Y,N,Y,Y,Y
+YM,YEM,YE,YEM,Yemen,Yemen,,Yemen,Yemen,15351120,Riyal,YER,N,425155.72,164152.61,2,249,YM,Yemen,San'a,Y,1947,N,Y,Y,N,Y,Y,Y
+ID,IDN,ID,IDN,Indonesia,Indonesia,,Indonesia,Indonesia,188474200,Rupiah,IDR,N,1887178.25,728639.44,1,104,ID,Indonesia,Jakarta,Y,1950,Y,Y,Y,Y,Y,Y,Y
+TH,THA,TH,THA,Thailand,Thailand,,Thailand,Thailand,57323780,Baht,THB,N,514055.44,198476.8,4,215,TH,Thailand,Bangkok,Y,1946,Y,Y,Y,N,Y,Y,Y
+MZ,MOZ,MZ,MOZ,Mozambique,Mozambique,,Mozambique,Mozambique,16604660,Metical,MZM,N,788866.63,304581.41,8,158,MZ,Mozambique,Maputo,Y,1975,N,Y,Y,N,Y,Y,Y
+KU,KWT,KW,KWT,Kuwait,Kuwait,,Kuwait,Kuwait,1639000,Dinar,KWD,N,16759.29,6470.76,7,126,KU,Kuwait,Kuwait,Y,1963,Y,Y,Y,Y,Y,Y,Y
+GV,GIN,GN,GIN,Guinea,Guinea,,Guinea,Guinea,62420070,Franc,GNF,N,246023.09,94989.52,6,94,GV,Guinea,Conakry,Y,1958,N,Y,Y,N,Y,Y,Y
+CT,CAF,CF,CAF,Central African Republic,African,*,Central African Republic,Central African Republic,3149545,CFA Franc,XOF,Y,621265.75,239870.72,3,51,CT,Central African Republic,Bangui,Y,1960,N,Y,Y,N,Y,Y,Y
+GH,GHA,GH,GHA,Ghana,Ghana,,Ghana,Ghana,16698090,Cedi,GHC,N,240041.16,92679.91,3,83,GH,Ghana,Accra,Y,1957,Y,Y,Y,N,Y,Y,Y
+AE,ARE,AE,ARE,United Arab Emirates,Emirates,,United Arab Emirates,United Arab Emirates,2061800,Dirham,AED,N,70476.56,27211,8,2,AE,United Arab Emirates,Abu Dhabi,Y,1971,Y,Y,Y,Y,Y,Y,Y
+PU,GNB,GW,GNB,Guinea-Bissau,Guinea-Bissau,,Guinea-Bissau,Guinea-Bissau,1085777,Peso,GWP,N,33287.63,12852.35,2,184,PU,Guinea-Bissau,Bissau,Y,1974,N,Y,Y,N,Y,Y,Y
+JE,XJE,,,Jersey,Jersey,,Jersey,United Kingdom,87848,Pound Sterling,GBP,N,123.54,47.7,3,114,JE,Jersey,,N,0,N,N,N,N,N,N,N
+PO,PRT,PT,PRT,Portugal,Portugal,,Portugal,Portugal,9625516,Escudo,PTE,N,91820.85,35452.03,4,181,PO,Portugal,Lisbon,Y,1955,Y,Y,Y,N,Y,Y,Y
+GR,GRC,GR,GRC,Greece,Greece,,Greece,Greece,10307460,Drachma,GRD,N,129901.95,50155.16,5,92,GR,Greece,Athens,Y,1945,Y,Y,Y,N,Y,Y,Y
+TS,TUN,TN,TUN,Tunisia,Tunisia,,Tunisia,Tunisia,8620181,Dinar,TND,N,155406.39,60002.41,1,223,TS,Tunisia,Tunis,Y,1956,Y,Y,Y,N,Y,Y,Y
+MO,MAR,MA,MAR,Morocco,Morocco,,Morocco,Morocco,27767920,Dirham,MAD,N,403538.91,155806.38,5,148,MO,Morocco,Rabat,Y,1956,Y,Y,Y,N,Y,Y,Y
+GA,GMB,GM,GMB,The Gambia,The Gambia,,"Gambia, The",The Gambia,936026,Dalasi,GMD,N,10762.29,4155.32,1,80,GA,The Gambia,Banjul,Y,1965,N,Y,Y,N,Y,Y,Y
+VM,VNM,VN,VNM,Vietnam,Vietnam,,Vietnam,Vietnam,71215210,Dong,VND,N,325307.59,125601.27,3,239,VM,Vietnam,Hanoi,Y,1977,Y,Y,Y,N,Y,Y,Y
+TU,TUR,TR,TUR,Turkey,Turkey,,Turkey,Turkey,61300930,Lira,TRL,N,779286.63,300882.56,2,224,TU,Turkey,Ankara,Y,1945,Y,Y,Y,N,Y,Y,Y
+SY,SYR,SY,SYR,Syria,Syria,,Syria,Syria,14045470,Pound,SYP,N,187988.94,72582.52,8,212,SY,Syria,Damascus,Y,1945,Y,Y,Y,N,Y,Y,Y
+IS,ISR,IL,ISR,Israel,Israel,,Israel,Israel,5694890,Shekel,ILS,N,20724.42,8001.7,6,109,IS,Israel,Jerusalem,Y,1949,Y,Y,Y,N,Y,Y,Y
+WE,ISR,,,West Bank,Bank,,West Bank,West Bank,1427741,New Shekel,NIS,Y,5885.57,2272.42,4,243,WE,West Bank,,N,0,N,N,N,N,N,N,N
+EG,EGY,EG,EGY,Egypt,Egypt,,Egypt,Egypt,56133430,Pound,EGP,N,1000194.56,386175.28,6,62,EG,Egypt,Cairo,Y,1945,Y,Y,Y,N,Y,Y,Y
+SP,ESP,ES,ESP,Spain,Spain,,Spain,Spain,39267780,Peseta,ESP,N,505596,195210.61,7,205,SP,Spain,Madrid,Y,1955,Y,Y,Y,N,Y,Y,Y
+NO,NOR,NO,NOR,Norway,Norway,,Norway,Norway,4328519,Norwegian Krone,NOK,N,318853.44,123109.3,2,166,NO,Norway,Oslo,Y,1945,Y,Y,Y,N,Y,Y,Y
+SW,SWE,SE,SWE,Sweden,Sweden,,Sweden,Sweden,8728217,Krone,SEK,N,443327.81,171168.86,4,210,SW,Sweden,Stockholm,Y,1946,Y,Y,Y,N,Y,Y,Y
+IT,ITA,IT,ITA,Italy,Italy,,Italy,Italy,57908880,Lira,ITL,N,299481.81,115629.92,4,110,IT,Italy,Rome,Y,1955,Y,Y,Y,N,Y,Y,Y
