@@ -6,7 +6,7 @@ This repository contains R code for the paper
 
 by Stephanie Melles, Christopher Scarpone, Adisa Julien, Julie Robertson, Jennifer Bello Levieva, Courtney Carrier, Robert France, Sabrina Gvuenc, Wai Ying Lam, Michelle Lucas, Alexus Maglalang, Keira McKee, Frances Okoye, and Kayla Wong
 
-submitted to ***Ecoscience*** (TECO-2019-0019). The paper will be available at: url:
+submitted to ***Ecoscience*** (TECO-2019-0019). The paper will be available at: url: <>
 
 The aim of sharing this code and demo is so that others can repeat and extend our study or analyze their own data. I have tried to adequately document the code.
 
