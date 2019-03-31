@@ -1,0 +1,67 @@
+"","Term","CNTRY_NAME","Flag","Continent","LONG_NAME","SOVEREIGN","POP_CNTRY","Cnt","Freq"
+"1","african","Central African Republic","*","C Africa","Central African Republic","Central African Republic",3149545,5,28
+"2","antarctic","French Southern & Antarctic Lands","*","Antarctic","French Southern & Antarctic Lands","France",-99999,1,1
+"3","argentina","Argentina","","South America","Argentina","Argentina",33796870,3,3
+"4","australia","Australia","","Oceania and Pacific Islands","Australia","Australia",17827520,4,6
+"5","austria","Austria","","Europe","Austria","Austria",7755406,1,1
+"6","baker","Baker I.","*","Oceania and Pacific Islands","Baker Island","United States",-99999,3,15
+"7","bank","West Bank","","N Africa and Middle East","West Bank","West Bank",1427741,4,11
+"8","belgium","Belgium","","Europe","Belgium","Belgium",10032460,2,7
+"9","botswana","Botswana","","Sub Saharan Africa","Botswana","Botswana",1446623,1,7
+"10","brazil","Brazil","","South America","Brazil","Brazil",151525400,3,13
+"11","brunei","Brunei","","SE Asia","Brunei","Brunei",281614,1,3
+"12","cameroon","Cameroon","","Sub Saharan Africa","Cameroon","Cameroon",13218480,1,1
+"13","canada","Canada","","North America ","Canada","Canada",28402320,6,16
+"14","china","China","","E Asia","China","China",1281396894,3,15
+"15","cook","Cook Is.","","Oceania and Pacific Islands","Cook Islands","New Zealand",17000,1,2
+"16","costa","Costa Rica","","Latin America & Caribbean","Costa Rica","Costa Rica",3319438,3,3
+"17","denmark","Denmark","","Europe","Denmark","Denmark",4667750,4,12
+"18","finland","Finland","","Europe","Finland","Finland",5031379,1,1
+"19","france","France","","Europe","France","France",57757060,9,17
+"20","georgia","Georgia","","C Asia","Georgia","Georgia",5595552,1,1
+"21","germany","Germany","","Europe","Germany","Germany",81436300,4,13
+"22","greece","Greece","","Europe","Greece","Greece",10307460,1,1
+"23","guinea","Guinea","","Sub Saharan Africa","Guinea","Guinea",62420070,1,5
+"24","hungary","Hungary","","Europe","Hungary","Hungary",10310410,1,1
+"25","indonesia","Indonesia","","SE Asia","Indonesia","Indonesia",188474200,2,2
+"26","ireland","Ireland","","Europe","Ireland","Ireland",5015975,5,7
+"27","isle","Isle of Man","","Europe","Man, Isle of","United Kingdom",71296,1,1
+"28","israel","Israel","","N Africa and Middle East","Israel","Israel",5694890,1,1
+"29","italy","Italy","","Europe","Italy","Italy",57908880,1,1
+"30","japan","Japan","","E Asia","Japan","Japan",125746300,3,19
+"31","jarvis","Jarvis I.","","Oceania and Pacific Islands","Jarvis Island","United States",-99999,1,2
+"32","jersey","Jersey","","Europe","Jersey","United Kingdom",87848,1,3
+"33","jordan","Jordan","","N Africa and Middle East","Jordan","Jordan",3950283,1,1
+"34","kenya","Kenya","","Sub Saharan Africa","Kenya","Kenya",25835250,1,1
+"35","kingdom","United Kingdom","*","Europe","United Kingdom","United Kingdom",56420180,2,3
+"36","madagascar","Madagascar","","Sub Saharan Africa","Madagascar","Madagascar",13046690,1,1
+"37","malaysia","Malaysia","","SE Asia","Malaysia","Malaysia",19626380,1,1
+"38","marshall","Marshall Is.","*","SE Asia","Marshall Islands","Marshall Is.",53363,1,5
+"39","mexico","Mexico","","Latin America & Caribbean","Mexico","Mexico",92380850,1,1
+"40","mongolia","Mongolia","","C Asia","Mongolia","Mongolia",2228222,1,30
+"41","namibia","Namibia","","Sub Saharan Africa","Namibia","Namibia",1575611,2,3
+"42","netherlands","Netherlands","","Europe","Netherlands","Netherlands",15447470,9,42
+"43","nigeria","Nigeria","","Sub Saharan Africa","Nigeria","Nigeria",97228750,1,1
+"44","norfolk","Norfolk I.","","Oceania and Pacific Islands","Norfolk Island","Australia",2209,2,11
+"45","norway","Norway","","Europe","Norway","Norway",4328519,4,8
+"46","papua","Papua New Guinea","","SE Asia","Papua New Guinea","Papua New Guinea",4039033,1,1
+"47","philippines","Philippines","","SE Asia","Philippines","Philippines",65981120,1,1
+"48","poland","Poland","","Europe","Poland","Poland",37911870,2,3
+"49","russia","Russia","","C Asia","Russia","Russia",151827600,1,1
+"50","solomon","Solomon Is.","","SE Asia","Solomon Islands","Solomon Is.",366000,1,1
+"51","south","South Africa","*","Sub Saharan Africa","South Africa","South Africa",40634126,11,26
+"52","spain","Spain","","Europe","Spain","Spain",39267780,1,2
+"53","sweden","Sweden","","Europe","Sweden","Sweden",8728217,3,38
+"54","switzerland","Switzerland","","Europe","Switzerland","Switzerland",6713839,4,14
+"55","thailand","Thailand","","SE Asia","Thailand","Thailand",57323780,1,1
+"56","timor","East Timor","","SE Asia","East Timor","To be determined",857000,1,2
+"57","trinidad","Trinidad & Tobago","","Latin America & Caribbean","Trinidad and Tobago","Trinidad & Tobago",1292000,1,1
+"58","uganda","Uganda","","Sub Saharan Africa","Uganda","Uganda",18144360,2,2
+"59","ukraine","Ukraine","","C Asia","Ukraine","Ukraine",53164920,1,1
+"60","usa","United States","*","North America ","United States","United States",258833000,15,56
+"61","vietnam","Vietnam","","SE Asia","Vietnam","Vietnam",71215210,1,1
+"62","virgin","British Virgin Is.","*","Latin America & Caribbean","British Virgin Islands","United Kingdom",18194,1,3
+"63","virgin","Virgin Is.","*","Latin America & Caribbean","Virgin Islands","United States",101614,1,3
+"64","wake","Wake I.","*","Oceania and Pacific Islands","Wake Island","United States",4000,1,1
+"65","zealand","New Zealand","","Oceania and Pacific Islands","New Zealand","New Zealand",3528197,2,26
+"66","zimbabwe","Zimbabwe","","Sub Saharan Africa","Zimbabwe","Zimbabwe",11106690,1,15
