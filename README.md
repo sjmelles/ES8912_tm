@@ -12,7 +12,7 @@ The aim of sharing this code and demo is so that others can repeat and extend ou
 
 To download the code from the GitHub site just click the 'Clone or Download' button (near the top on the right) and select 'Download ZIP'. Make a note of the 'Latest commit' number in case you have any questions for me. If you use GitHub then feel free to fork and adapt the code.
 
-If you want to apply the code to your own PDFs then just use the latest version that will be automatically displayed on the GitHub site.
+The original code was shared and prepared for a graduate class in Applied Ecology at Ryerson University. This original code is stored under the **'App_Eco_Text_mining'** folder, which was created in fall 2017. If you want to apply the method described in our paper to your own PDFs, use the project and code stored in the folder **'Ecosci_text_mining_DEMO_V0.1'**. This folder contains a demonstration that shows how the pdfs were mined. Note that the R code relies on  pdftotext.exe version 4.01 to be installed and working on your machine. <https://www.xpdfreader.com/pdftotext-man.html>.
 
 This demo uses a set of 22 demo pdf files. The submitted manuscript analysed over 9000 pdfs.  
 
